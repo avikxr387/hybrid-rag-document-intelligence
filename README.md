@@ -232,5 +232,5 @@ It demonstrates practical design considerations for real-world RAG systems.
 
 ## Author
 
-Avik Halder
+AVIK HALDER GitHub: [https://github.com/avikxr387]
 
